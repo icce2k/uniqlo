@@ -1,0 +1,19 @@
+.ui.borderless.topmenu.menu {
+  background-color: #f4f4f4;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.midmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.midmessage.center.aligned.container {
+  background-color: black;
+}
+
+.ui.vertical.borderless.footermenu.menu {
+  box-shadow: none;
+  border: none;
+}
